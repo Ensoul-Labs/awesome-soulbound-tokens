@@ -11,7 +11,7 @@
 ### Projects
 
 - [Soulbound Labs](https://soulbound.xyz/): Ambassadors of on-chain reputation and merit-based governance.
-- [DAOU](https://github.com/DAOU-IO/): DAOU uses uses Soulbound Token and Social Oracle to convert your activity data in DAOs into on-chain verifiable data.
+- [DAOU](https://github.com/DAOU-IO/): uses Soulbound Token and Social Oracle to convert your activity data in DAOs into on-chain verifiable data.
 
 ### Developer
 
