@@ -16,5 +16,6 @@
 ### Developer
 
 - [SBT in Solidity](https://github.com/jamesbachini/Solidity-SBT-Soul-Bound-Token): An experiment in creating a soul bound token (SBT)
+- [Soul Moment](https://github.com/ChecksFinance/soul-moment): An attempt to provide an implementation of SBT in Cairo lang
 
 
