@@ -8,6 +8,7 @@
 - [Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)
 - [Charting the Soulweb: SBT Graph Concept & Examples](https://mirror.xyz/nshuman.eth/PBDvwb1Vn_fonaa5xmQ5bOH-fFGQD1rgH67J-VFBGbs)
 - [How Soulbound Tokens Can Make Gitcoin Grants More Pluralistic](https://gov.gitcoin.co/t/how-soulbound-tokens-can-make-gitcoin-grants-more-pluralistic/10077)
+- [Soulbound Tokens (SBTs) Should Be Signed Claims](https://katelynsills.com/blockchain/soulbound-tokens/)
 
 ### Projects
 
