@@ -17,6 +17,7 @@
 
 ### Developer
 
+- [EIP-5114: Soulbound Token](https://eips.ethereum.org/EIPS/eip-5114): A token that is attached to a "soul" at mint time and cannot be transferred after that.
 - [ZK SBT](https://github.com/enricobottazzi/ZK-SBT): Library to issue zero knowledge soul bound tokens (ZK SBTs)
 - [sbt](https://github.com/0xNSHuman/sbt):Concept for the SBT standard interface and implementation that enable graph traversal.
 - [ERC721S (SoulBound)](https://github.com/SoulBoundProtocol/ERC721S):ERC721S (SoulBound), is an implementation for SoulBound Token (non-transferable NFT) coined by Vitalik Buterin in a [blog post](https://vitalik.ca/general/2022/01/26/soulbound.html).
