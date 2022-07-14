@@ -13,11 +13,13 @@
 ### Projects
 
 - [Soulbound Labs](https://soulbound.xyz/): Ambassadors of on-chain reputation and merit-based governance.
+- [Proof of Soul](https://www.proofofsoul.me/) Proof of Soul is a permissionless soulbound token issuing/attesting(minting) protocol.
 - [DAOU](https://github.com/DAOU-IO/): uses Soulbound Token and Social Oracle to convert your activity data in DAOs into on-chain verifiable data.
 
 ### Developer
 
 - [EIP-5114: Soulbound Token](https://eips.ethereum.org/EIPS/eip-5114): A token that is attached to a "soul" at mint time and cannot be transferred after that.
+- [EIP-4337: Account Abstraction via Entry Point Contract specification](https://eips.ethereum.org/EIPS/eip-4337): An account abstraction proposal which completely avoids consensus-layer protocol changes, instead relying on higher-layer infrastructure.
 - [ZK SBT](https://github.com/enricobottazzi/ZK-SBT): Library to issue zero knowledge soul bound tokens (ZK SBTs)
 - [sbt](https://github.com/0xNSHuman/sbt):Concept for the SBT standard interface and implementation that enable graph traversal.
 - [ERC721S (SoulBound)](https://github.com/SoulBoundProtocol/ERC721S):ERC721S (SoulBound), is an implementation for SoulBound Token (non-transferable NFT) coined by Vitalik Buterin in a [blog post](https://vitalik.ca/general/2022/01/26/soulbound.html).
