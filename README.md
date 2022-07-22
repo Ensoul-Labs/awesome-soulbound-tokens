@@ -19,6 +19,7 @@
 ### Developer
 
 - [EIP-5114: Soulbound Token](https://eips.ethereum.org/EIPS/eip-5114): A token that is attached to a "soul" at mint time and cannot be transferred after that.
+- [EIP-4973: Account-bound Tokens](https://eips.ethereum.org/EIPS/eip-4973): A standard interface for non-transferrable NFTs binding to an Ethereum account like a legendary World of Warcraft item binds to a character.
 - [EIP-4337: Account Abstraction via Entry Point Contract specification](https://eips.ethereum.org/EIPS/eip-4337): An account abstraction proposal which completely avoids consensus-layer protocol changes, instead relying on higher-layer infrastructure.
 - [ZK SBT](https://github.com/enricobottazzi/ZK-SBT): Library to issue zero knowledge soul bound tokens (ZK SBTs)
 - [sbt](https://github.com/0xNSHuman/sbt):Concept for the SBT standard interface and implementation that enable graph traversal.
