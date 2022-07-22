@@ -13,7 +13,8 @@
 ### Projects
 
 - [Soulbound Labs](https://soulbound.xyz/): Ambassadors of on-chain reputation and merit-based governance.
-- [Proof of Soul](https://www.proofofsoul.me/) Proof of Soul is a permissionless soulbound token issuing/attesting(minting) protocol.
+- [Proof of Soul](https://www.proofofsoul.me/): Proof of Soul is a permissionless soulbound token issuing/attesting(minting) protocol.
+- [Otterspace](https://www.otterspace.xyz/): Otterspace’s non-transferable badge protocol helps DAOs create better incentive systems, automate permissions and enable non-financialized governance.
 - [DAOU](https://github.com/DAOU-IO/): uses Soulbound Token and Social Oracle to convert your activity data in DAOs into on-chain verifiable data.
 
 ### Developer
