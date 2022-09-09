@@ -31,6 +31,8 @@
 - [delegatable-eth](https://github.com/danfinlay/delegatable-eth): Experimenting with making a counterfactual revocable-delegation contract format.
 - [soulbound](https://github.com/primitivefinance/soulbound):Implementation of a non-transferrable NFT using non-financial incentivization.
 - [huffbound](https://github.com/PraneshASP/huffbound):A Soulbound token contract implementation using Huff
+- [CSBS](https://github.com/PlanckerLabs/CSBS): Community SBT Basket and Seal
+
 ### Organizations
 
 - [RadicalxChange (RxC)](https://www.radicalxchange.org/concepts/soulbound-tokens/): RadicalxChange (RxC) is a global movement for next-generation political economies. We’re committed to advancing plurality, equality, community, and decentralization through upgrading democracy, markets, the data economy, the commons, and identity.
